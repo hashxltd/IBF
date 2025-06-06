@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.hashx.tech" target="_blank">
-    <img src="https://www.hashx.tech/_next/image?url=%2Fimages%2Flogo%2Flogo.png&w=256&q=75" alt="HashX Logo" width="200"/>
+    <img src="[https://www.hashx.tech/_next/image?url=%2Fimages%2Flogo%2Flogo.png&w=256&q=75](https://www.hashx.tech/_next/image?url=%2Fassets%2Flogos%2Flogo-white.png&w=256&q=75)" alt="HashX Logo" width="200"/>
   </a>
 </div>
 
