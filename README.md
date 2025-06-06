@@ -3,21 +3,20 @@
     <img src="https://www.hashx.tech/_next/image?url=%2Fassets%2Flogos%2Flogo-white.png&w=256&q=75" alt="HashX Logo" width="200"/>
   </a>
 </div>
-
 <h1 align="center">IBF: Integrated Business Framework</h1>
 
 <p align="center">
-  The All-in-One, AI-Powered Operating System for the Modern Enterprise.
+  The All-in-One, AI-Powered Platform for the Modern Enterprise.
 </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Live%20%26%20Active-brightgreen" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Platform-On--Demand%20SaaS-purple" alt="Platform"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deployment-Cloud%20%7C%20Self--Managed-purple" alt="Deployment"></a>
   <a href="#"><img src="https://img.shields.io/badge/AI%20Powered-✓-blue" alt="AI Powered"></a>
   <a href="#"><img src="https://img.shields.io/badge/Security-Enterprise%20Grade-red" alt="Security"></a>
 </p>
 
-> In today's competitive landscape, businesses are plagued by fragmented systems, siloed data, and operational inefficiencies. This chaos stifles growth and hinders smart decision-making. IBF by HashX is the definitive solution—a single source of truth that unifies every aspect of your organization into one intelligent, secure, and scalable platform.
+> In today's competitive landscape, businesses are plagued by fragmented systems, siloed data, and operational inefficiencies. This chaos stifles growth and hinders smart decision-making. IBF by HashX is the definitive solution—a single source of truth that unifies every aspect of your organization into one intelligent, secure, and scalable business platform.
 
 ---
 
@@ -47,8 +46,8 @@
 * **Eliminate Data Silos:** Achieve a true 360-degree view of your business by unifying data from every department.
 * **Boost Operational Efficiency:** Automate workflows, streamline processes, and empower your teams to focus on high-value tasks.
 * **Data-Driven Decisions:** Leverage powerful AI and real-time analytics to turn raw data into strategic, predictive insights.
-* **Reduce Total Cost of Ownership:** Replace dozens of disparate software subscriptions with one predictable, scalable, and all-inclusive platform.
-* **Future-Proof Your Business:** Built on a modern, cloud-native architecture that grows with you, adapting to market changes and new opportunities.
+* **Flexible Deployment:** Choose between our secure Cloud SaaS for agility or a Self-Managed solution for ultimate control.
+* **Future-Proof Your Business:** Built on a modern, robust architecture that grows with you, adapting to market changes and new opportunities.
 
 ## 🏛️ Core Modules
 
@@ -116,31 +115,33 @@ A complete financial toolkit built for accuracy and compliance.
 
 ## 🌟 Architectural Pillars
 
-IBF is engineered for the demands of the modern enterprise.
+IBF is engineered to provide maximum flexibility and performance to meet the demands of any enterprise.
 
 * ### 🧠 **AI-Powered Intelligence**
     We go beyond simple automation. Our AI engine delivers predictive sales forecasting, customer churn analysis, automated inventory reordering, and intelligent anomaly detection across all your business data.
 
 * ### 🛡️ **Uncompromising Security**
-    Your data is protected by a fortress of security measures, including End-to-End Encryption (E2EE), granular Role-Based Access Control (RBAC), continuous threat monitoring, and adherence to global data privacy standards like GDPR.
+    Your data is protected by a fortress of security measures, including End-to-End Encryption (E2EE), granular Role-Based Access Control (RBAC), and continuous threat monitoring, adaptable to any deployment model.
 
-* ### ☁️ **True On-Demand SaaS**
-    Experience zero hardware footprint, zero maintenance overhead, and seamless, automatic updates. Our cloud-native, microservices architecture provides elastic scalability, allowing you to add users and modules as you grow without any performance degradation.
+* ### ☁️ **Flexible Deployment Architecture**
+    We empower you to choose the model that best fits your business strategy and security posture.
+    * **Cloud SaaS Model:** For businesses seeking agility and zero overhead. Benefit from automatic updates, zero hardware footprint, and effortless scalability, all managed by the experts at HashX.
+    * **Self-Managed Model:** For enterprises requiring maximum control, data sovereignty, or specific compliance. Deploy IBF on your own infrastructure (on-premise or private cloud) for full autonomy.
 
 ## 🎯 Ideal For
 
-* **Small to Medium Enterprises (SMEs)** seeking a scalable, all-in-one platform to fuel their growth.
-* **Large Enterprises** aiming to consolidate legacy systems, eliminate data silos, and increase operational agility.
-* **Businesses in Key Sectors** such as Manufacturing, Retail, Wholesale Distribution, and professional services.
+* **Small to Medium Enterprises (SMEs)** seeking a scalable, all-in-one cloud platform to fuel their growth.
+* **Large Enterprises** aiming to consolidate legacy systems or requiring the control and security of a self-managed deployment.
+* **Businesses in Key Sectors** such as Manufacturing, Retail, Wholesale Distribution, and those with complex compliance needs.
 
 ## 🗺️ Our Onboarding Process
 
-We provide a structured, white-glove onboarding experience to ensure your success.
+We provide a structured, white-glove onboarding experience to ensure your success, tailored to your chosen deployment model.
 
 1.  **Consultation & Discovery:** We work with you to understand your unique processes and goals.
 2.  **Configuration & Customization:** We tailor the IBF modules to fit your specific workflows.
 3.  **Data Migration:** Our team provides expert assistance to securely migrate your data from legacy systems.
-4.  **Training & Go-Live:** We provide comprehensive training to your teams before a seamless transition to the live IBF environment.
+4.  **Go-Live & Handover:** We provide comprehensive training before a seamless transition, whether on our cloud or yours.
 
 ## 🚀 About HashX
 
