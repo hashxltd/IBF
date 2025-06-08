@@ -71,7 +71,7 @@ Manage your most valuable asset—your people.
 * **Payroll & Compensation:** Ensure accurate, on-time payroll processing and benefits administration.
 * **Performance Management:** Set goals, conduct reviews, and foster employee development.
 
-###  कैशियर Point of Sale (POS)
+### Point of Sale (POS)
 A modern, fast, and reliable transaction hub.
 * **Omnichannel Sales:** Accept payments online, in-store, and on the go with synchronized data.
 * **Real-time Inventory Sync:** Every sale automatically updates inventory levels across the entire IBF platform.
